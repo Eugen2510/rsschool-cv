@@ -1,7 +1,9 @@
 ### Evgenij Lugovoj  
 email: lugovoj 20@gmail.com  
 phone: +380-99-667-60-18  
-skype: evgenij_lugovoj  
+telegram: +380-99-667-60-18  
+skype: evgenij_lugovoj
+  
 		
 		
 # Summary  
