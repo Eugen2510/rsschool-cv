@@ -7,4 +7,4 @@ skype: evgenij_lugovoj
 # Summary  
 Today, unfortunately, I have no experience in it, and I have nothing to say about my skills in this area.  
 But I am currently taking the *ANDROID* courses at *RS SCHOOL*, am actively studying and hope to become  
-a part of the *EPAM* team in the future.
+a part of the **EPAM** team in the future.
